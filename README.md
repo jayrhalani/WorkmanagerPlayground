@@ -6,3 +6,7 @@ WorkManager, a compatible, flexible and simple library for deferrable background
 - <b>MinSdkVersion</b>: 24
 - <b>TargetSdkVersion</b>: 29
 - <b>Development Tool</b>: Android Studio
+
+## Libraries Used
+* [Android Support Library](https://developer.android.com/topic/libraries/support-library/)
+* [WorkManager](https://developer.android.com/reference/androidx/work/WorkManager)
